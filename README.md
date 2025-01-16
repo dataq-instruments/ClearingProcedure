@@ -20,6 +20,6 @@
 
 8. # WARNING  The next step will render your instrument useless!!!!
    
-9. Press the Program Button at the lower left corner. When it finishes, the device should be FLASHING like a Christmas tree light
+9. Press the Program Button at the lower left corner. When it finishes, the device should be FLASHING like a Christmas tree light, and device configuration info has been erased
 
 10. Now you can dispose your instrument
