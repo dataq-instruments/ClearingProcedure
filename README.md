@@ -16,7 +16,7 @@
 6. Choose the Program Tab. Navigate to your download directory, click on the eraseeeprom.bin file for your device<br/>
 ![alt text](https://www.dataq.com/resources/repository/lmflash2.png)
 
-7. # WARNING  This is a not revertable clearing procedure and it will render your instrument useless!!!!
+7. # WARNING  The next step will render your instrument useless!!!!
    
 9. Press the Program Button at the lower left corner. When it finishes, the device should be FLASHING like a Christmas tree light
 
