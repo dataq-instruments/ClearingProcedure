@@ -2,7 +2,7 @@
 
 1. Download and install the flash program for Windows from https://www.ti.com/tool/LMFLASHPROGRAMMER
 
-2. Contact Dataq via email for the firmware, eeraseeeprom.bin
+2. Contact Dataq via email for the firmware, eraseeeprom.bin
 
 3. Remove the USB cable from your device and PC, and remove power supply to the device if it gets power from external power supply
 
