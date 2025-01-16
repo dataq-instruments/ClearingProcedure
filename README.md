@@ -1,4 +1,4 @@
-# WARNING  This is a not revertable clearing procedure and it will render your instrument useless
+# WARNING  This is a not revertable procedure and it will render your instrument useless
 
 1. Download and install the flash program for Windows from https://www.ti.com/tool/LMFLASHPROGRAMMER
 
