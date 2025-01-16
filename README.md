@@ -20,4 +20,4 @@
    
 9. Press the Program Button at the lower left corner. When it finishes, the device should be FLASHING like a Christmas tree light
 
-10. Now you can discard your instrument
+10. Now you can dispose your instrument
